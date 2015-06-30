@@ -2363,3 +2363,10 @@ li.dropdown:hover .dropdown-menu {
         left: 100%;
     }
 }
+
+.online-earning img {
+    margin: auto;
+    display: block;
+    width: 100%;
+    margin-top: 20px;
+}
