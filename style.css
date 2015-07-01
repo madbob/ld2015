@@ -580,7 +580,7 @@ a {
 /* #--4--# Section - Statistics ########################################### */
 
 .statistics-section {
-	background-image: url("images/statistics/statistics-bg.png");
+	background-image: url("images/statistics/statistics-bg.jpg");
 	padding: 54px 0;
 	background-size: auto 100%;
 }
@@ -976,7 +976,7 @@ li:hover .timieline-icon h4
 
 .pricing-table-section {
 	padding: 90px 0;
-	background-image: url("images/pricing-table-bg.png");
+	background-image: url("images/pricing-table-bg.jpg");
 	background-size: cover;
 }
 
