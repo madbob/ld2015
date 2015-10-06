@@ -89,10 +89,10 @@
 
 		$this.appear(function()
 		{
-			$('#statistics-participants').animateNumber({ number: 500 }, 2000);
-			$('#statistics-sessions').animateNumber({ number: 4 }, 2000);
-			$('#statistics-speakers').animateNumber({ number: 16 }, 2000);
-			$('#statistics-hours').animateNumber({ number: 4 }, 2000);
+			$('#statistics-participants').animateNumber({ number: 500 }, 1000);
+			$('#statistics-sessions').animateNumber({ number: 4 }, 1000);
+			$('#statistics-speakers').animateNumber({ number: 16 }, 1000);
+			$('#statistics-hours').animateNumber({ number: 4 }, 1000);
 		});
 	});
 
