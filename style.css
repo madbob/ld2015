@@ -1005,12 +1005,26 @@ li:hover .timieline-icon h4
 	list-style: none;
 	text-align: center;
 	padding: 0;
+	overflow: hidden;
 }
 
 .pricing-table ul li {
 	color: #fff;
 	font-size: 15.56px;
 	margin-bottom: 32px;
+}
+
+.pricing-table ul li.images {
+	background-color: #FFF;
+	width: 100%;
+	text-align: center;
+	display: table;
+	margin-bottom: 0px;
+}
+
+.pricing-table ul li div {
+	display: table-cell;
+	vertical-align: middle;
 }
 
 .pricing-table:hover, .pricing-table.pricing-active {
