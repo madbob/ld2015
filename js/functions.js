@@ -232,6 +232,7 @@
 		var window_height = $(window).height();
 		var window_width = $(window).width();
 
+		/*
 		$("#sponsors").owlCarousel(
 		{
 			autoPlay: 3000, //Set AutoPlay to 3 seconds
@@ -242,6 +243,7 @@
 			navigation : false,
 			pagination: false
 		});
+		*/
 
 		/* Menu toggled */
 		$("#menu-button").on('click',function(e)
